@@ -70,4 +70,6 @@ Com o sistema, não há mais necessidade de esperar em filas ou passar horas ten
 
 Em conclusão, o sistema em questão se trata de um sistema simples, mas de extrema importância para a implementação escolar, o projeto também teve grande importância para a evolução e crescimento individual da equipe em termos profissionais e técnicos.
 
+Gostaria de agradecer a família, aos amigos, a equipe e professores, que auxiliaram, demasiadamente, para a execução de nossos estudos e para o desenvolvimento do projeto.
+
 Caso tenha dúvidas ou queira reportar algum problema me contate: zaguemurilo7@gmail.com
