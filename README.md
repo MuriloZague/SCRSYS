@@ -37,3 +37,10 @@ tecnologia;
 3. Gerenciar eficientemente a cessão, assim, prevenindo adversidades;
 4. Melhorar o controle e segurança de alunos que fazem os
 agendamentos de tal ambiente.
+
+
+![scrsysssssa](https://github.com/MuriloZague/SCRSYS/assets/72508114/f07b906e-3de1-4665-b382-d8611657b24a)
+
+
+
+
